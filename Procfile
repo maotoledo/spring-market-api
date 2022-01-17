@@ -1,0 +1,1 @@
+web: java -jar "-Dspring.profiles.active=prd"  build/libs/hc-market-1.0.jar
